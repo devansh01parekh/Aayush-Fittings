@@ -89,7 +89,7 @@ const ContactSection = () => {
                     <h4 className="font-semibold text-primary mb-1">Our Location</h4>
                     <p className="text-muted-foreground">
                       Mumbai, Maharashtra<br />
-                      India - 400001
+                      India - 400075
                     </p>
                   </div>
                 </div>
@@ -101,7 +101,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-primary mb-1">Phone Number</h4>
-                    <p className="text-muted-foreground">+91 98212v25481</p>
+                    <p className="text-muted-foreground">+91 98212 25481</p>
                   </div>
                 </div>
 
@@ -112,7 +112,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-primary mb-1">Email Address</h4>
-                    <p className="text-muted-foreground">info@aayushfittings.com</p>
+                    <p className="text-muted-foreground">aayushfittings@gmail.com</p>
                   </div>
                 </div>
 
@@ -123,7 +123,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-primary mb-1">WhatsApp</h4>
-                    <p className="text-muted-foreground">+91 98212v25481</p>
+                    <p className="text-muted-foreground">+91 98212 25481</p>
                   </div>
                 </div>
               </div>
@@ -136,11 +136,11 @@ const ContactSection = () => {
                 <div className="space-y-3">
                   <div className="flex justify-between">
                     <span className="text-muted-foreground">Monday - Friday</span>
-                    <span className="text-primary font-medium">9:00 AM - 6:00 PM</span>
+                    <span className="text-primary font-medium">9:00 AM - 8:00 PM</span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-muted-foreground">Saturday</span>
-                    <span className="text-primary font-medium">9:00 AM - 4:00 PM</span>
+                    <span className="text-primary font-medium">9:00 AM - 7:00 PM</span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-muted-foreground">Sunday</span>
