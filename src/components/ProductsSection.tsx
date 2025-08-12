@@ -179,7 +179,7 @@ const ProductsSection = () => {
                   element.scrollIntoView({ behavior: 'smooth' });
                 }
               }}
-              className="btn-accent bg-accent-foreground text-accent hover:bg-accent-foreground/90"
+              className="btn-accent bg-accent-foreground text-white hover:bg-accent-foreground/90"
             >
               Request Custom Quote
             </button>
