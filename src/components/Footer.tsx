@@ -37,11 +37,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-accent" />
-                <span className="text-sm">+91 98765 43210</span>
+                <span className="text-sm">+91 98212 25481</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-accent" />
-                <span className="text-sm">info@aayushfittings.com</span>
+                <span className="text-sm">aayushfittings@gmail.com</span>
               </div>
             </div>
           </div>
@@ -115,7 +115,7 @@ const Footer = () => {
           {/* Contact Actions */}
           <div className="flex items-center space-x-4">
             <a 
-              href="tel:+919876543210"
+              href="tel:+919821225481"
               className="flex items-center space-x-2 bg-accent text-accent-foreground px-4 py-2 rounded-lg hover:bg-accent/90 transition-colors duration-200"
             >
               <Phone className="h-4 w-4" />
@@ -123,7 +123,7 @@ const Footer = () => {
             </a>
             
             <a 
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919821225481"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 bg-accent text-accent-foreground px-4 py-2 rounded-lg hover:bg-accent/90 transition-colors duration-200"
