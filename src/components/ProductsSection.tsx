@@ -10,8 +10,7 @@ const ProductsSection = () => {
   const filters = [
     { id: 'all', name: 'All Products' },
     { id: 'runners', name: 'Runners' },
-    { id: 'sliders', name: 'Sliders' },
-    { id: 'accessories', name: 'Other Accessories' }
+    { id: 'sliders', name: 'Sliders' }
   ];
 
   const products = [
@@ -46,22 +45,6 @@ const ProductsSection = () => {
       image: productsSliders,
       description: 'Professional-grade sliders for commercial applications',
       features: ['Heavy Duty', 'Long Lasting', 'Professional Grade']
-    },
-    {
-      id: 5,
-      name: 'Decorative Hardware',
-      category: 'accessories',
-      image: productsRunners,
-      description: 'Decorative bag hardware and fittings',
-      features: ['Aesthetic Appeal', 'Functional Design', 'Multiple Options']
-    },
-    {
-      id: 6,
-      name: 'Specialty Components',
-      category: 'accessories',
-      image: productsSliders,
-      description: 'Specialized bag components and fittings',
-      features: ['Unique Design', 'High Quality', 'Versatile Use']
     }
   ];
 
