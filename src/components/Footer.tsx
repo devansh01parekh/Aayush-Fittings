@@ -99,9 +99,6 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="text-primary-foreground/80">Metal Runners</li>
               <li className="text-primary-foreground/80">Premium Sliders</li>
-              <li className="text-primary-foreground/80">Custom Accessories</li>
-              <li className="text-primary-foreground/80">Decorative Hardware</li>
-              <li className="text-primary-foreground/80">Specialty Components</li>
             </ul>
           </div>
         </div>
